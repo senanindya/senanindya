@@ -3,10 +3,11 @@
          height="45"
          width="45" /> Anindya here.</h1>
          
-<h2> ✔️ VIT,Vellore CSE, class of 2022 </h2>
-
-
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anindyasen21)
+# 💫 About Me :
+- 🌱 I’m currently learning more about Machine Learning, AI, NLP.
+- ⚡ Fun fact: You need to talk to me to know.
+         
+## 📫 Socials: [Some Links](https://bio.link/anindya_sen)  
 
 
 ## 👨‍💻 Languages and tools I have worked with so far:
@@ -22,6 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanindya21&show_icons=true&theme=github_dark" alt="senanindya21" /></p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 ---
 [![](https://visitcount.itsvg.in/api?id=senanindya21&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
