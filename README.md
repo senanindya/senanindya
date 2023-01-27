@@ -5,9 +5,9 @@
          
 # 💫 About Me :
 - 🌱 I’m currently learning more about Machine Learning, AI, NLP and so on.
-- ⚡ Fun fact: [You may need to talk to me to know.](https://dwe.st/rr)
+- ⚡ Fun fact: [Talk to me to know](https://dwe.st/rr)
          
-## 📫 Socials: [https://img.shields.io/badge/-Bio.Link-000000?logo=biolink&logoColor=white&style=for-the-badge](https://bio.link/anindya_sen)  
+## 📫 Socials: [![Link](https://img.shields.io/badge/-Bio.Link-000000?logo=biolink&logoColor=white&style=for-the-badge)](https://bio.link/anindya_sen)
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
