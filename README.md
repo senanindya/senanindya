@@ -1,11 +1,11 @@
 <h1 align="center"> Hello!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> Anindya here.</h1>
+         width="45" /> Anindya here! </h1>
          
 # 💫 About Me :
-- 🌱 I’m currently learning more about Machine Learning, AI, NLP.
-- ⚡ Fun fact: You need to talk to me to know.
+- 🌱 I’m currently learning more about Machine Learning, AI, NLP and so on.
+- ⚡ Fun fact: [You may need to talk to me to know.](https://dwe.st/rr)
          
 ## 📫 Socials: [Some Links](https://bio.link/anindya_sen)  
 
