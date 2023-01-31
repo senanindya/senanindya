@@ -5,11 +5,12 @@
         
    
 [![pc](https://user-images.githubusercontent.com/60683850/215810678-4898ab46-0129-4a43-9ee8-8449ae428ad4.gif)](https://dwe.st/rr)
-         
+        
 # 💫 About Me :
+```yaml 
 - 🌱 I’m currently learning more about Machine Learning, AI, NLP and so on.
 - ⚡ Fun fact: Love to watch movies, TV shows and playing games.
-         
+```         
 ## 📫 Socials: [![Link](https://img.shields.io/badge/-Bio.Link-000000?logo=biolink&logoColor=white&style=for-the-badge)](https://bio.link/anindya_sen)
 
 ### Languages:
