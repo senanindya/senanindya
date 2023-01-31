@@ -3,8 +3,13 @@
          height="45"
          width="45" /> Anindya here! </h1>
         
-   
-[![pc](https://user-images.githubusercontent.com/60683850/215810678-4898ab46-0129-4a43-9ee8-8449ae428ad4.gif)](https://dwe.st/rr)
+<p align="center">
+  <a href="https://dwe.st/rr">
+    <img src="https://user-images.githubusercontent.com/60683850/215810678-4898ab46-0129-4a43-9ee8-8449ae428ad4.gif" width="600" height="400">
+  </a>
+</p>
+
+
         
 # 💫 About Me :
 ```yaml 
