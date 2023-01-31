@@ -2,6 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> Anindya here! </h1>
+        
+   
+![pc](https://user-images.githubusercontent.com/60683850/215810678-4898ab46-0129-4a43-9ee8-8449ae428ad4.gif)
          
 # 💫 About Me :
 - 🌱 I’m currently learning more about Machine Learning, AI, NLP and so on.
@@ -74,3 +77,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 ---
 [![](https://visitcount.itsvg.in/api?id=senanindya21&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/senanindya21/senanindya21/blob/output/github-contribution-grid-snake.svg)
