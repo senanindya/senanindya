@@ -79,7 +79,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya21&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="senanindya21" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanindya21&show_icons=true&theme=github_dark" alt="senanindya21" /></p>
 
-### ✍️Random Dev Quote
+### ✍️Daily does of random Tech visionaries' musings:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
          
