@@ -1,7 +1,7 @@
 <h1 align="center"> Hello!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> Anindya here! </h1>
+         width="45" /><a href=https://anindya_sen.bio.link/> Anindya </a>here! </h1>
         
 <p align="center">
   <a href="https://dwe.st/rr">
@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning more about Machine Learning, AI, NLP and so on.
 - ⚡ Fun fact: Love to watch movies, TV shows and playing games.
 ```         
-## 📫 Socials: [![Link](https://img.shields.io/badge/-Bio.Link-000000?logo=biolink&logoColor=white&style=for-the-badge)](https://bio.link/anindya_sen)
+
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
