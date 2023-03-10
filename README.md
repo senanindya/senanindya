@@ -14,7 +14,7 @@
 # 💫 About Me :
 ```yaml 
 - 🌱 I’m currently learning more about Machine Learning, AI, NLP and so on.
-- ⚡ Fun fact: Love to watch movies, TV shows and playing games.
+- ⚡ Fun fact: Love to watch movies, TV shows and play games.
 ```         
 
 
@@ -48,19 +48,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 
 
-### IDE's:
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Operating System Experience:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 ### Developer Platforms:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anindya-Sen-10)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anindyasen)
@@ -72,12 +59,12 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senanindya21&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senanindya&theme=github_dark"/>
 </p>
 
 ## 📟 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya21&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="senanindya21" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanindya21&show_icons=true&theme=github_dark" alt="senanindya21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="senanindya21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark" alt="senanindya21" /></p>
 
 ### ✍️Daily does of random Tech visionaries' musings:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
