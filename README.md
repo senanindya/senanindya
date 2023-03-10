@@ -63,8 +63,8 @@
 </p>
 
 ## 📟 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="senanindya21" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark" alt="senanindya21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="senanindya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark" alt="senanindya" /></p>
 
 ### ✍️Daily does of random Tech visionaries' musings:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
@@ -73,10 +73,10 @@
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in"><a href=https://anindya_sen.bio.link/>
-    <img src="https://visitcount.itsvg.in/api?id=senanindya21&label=Profile%20Views&color=6&icon=5&pretty=false">
+    <img src="https://visitcount.itsvg.in/api?id=senanindya&label=Profile%20Views&color=6&icon=5&pretty=false">
   </a>
 </p>
 
 ---
 
-![Snake animation](https://github.com/senanindya21/senanindya21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/senanindya/senanindya/blob/output/github-contribution-grid-snake.svg)
