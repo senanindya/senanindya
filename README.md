@@ -1,8 +1,9 @@
-<h1 align="center"> Hello!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
+<h1 align="center">
+         <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=4CF700&width=435&height=45&center=true&vCenter=true&lines=Hello%2C+Anindya+here!><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          height="45"
-         width="45" /><a href=https://anindya_sen.bio.link/> Anindya </a>here! </h1>
-        
+         width="45" />
+</h1>
+
 <p align="center">
   <a href="https://dwe.st/rr">
     <img src="https://user-images.githubusercontent.com/60683850/215810678-4898ab46-0129-4a43-9ee8-8449ae428ad4.gif" width="600" height="400">
