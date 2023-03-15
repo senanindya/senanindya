@@ -61,8 +61,14 @@
 </p>
 
 ## 📟 GitHub Stats
-|![](https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark)|![](https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senanindya&theme=github_dark&hide_border=false&cache_seconds=0&token=Z2hwXzJHSG1venlCNm4zWmlxblpqb1dCVmZPSWVicUhIaDBOWTZYNQ)|
-|-----|------|------|
+
+<div align="center">
+
+|<img src="https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" height="185">&nbsp; &nbsp;| &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark" height="150">|
+|------|------|
+
+</div>
+
 
 <br>
 
