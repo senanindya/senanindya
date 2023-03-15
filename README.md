@@ -53,27 +53,27 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sen21)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/senanindya)
 
-
+<br>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senanindya&show_icons=true&theme=github_dark"/>
 </p>
 
+<br>
+
 ## 📟 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark" height="150" alt="senanindya" />
-<img src="https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="senanindya" />
-</div>
+|![](https://github-readme-stats.vercel.app/api/top-langs?username=senanindya&show_icons=true&locale=en&layout=compact&theme=github_dark)|![](https://github-readme-stats.vercel.app/api?username=senanindya&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senanindya&theme=github_dark&hide_border=false&cache_seconds=0&token=Z2hwXzJHSG1venlCNm4zWmlxblpqb1dCVmZPSWVicUhIaDBOWTZYNQ)|
+|-----|------|------|
 
+<br>
 
-
-### ✍️Daily does of random Tech visionaries' musings:
+## ✍️Daily does of random Tech visionaries' musings:
 
 <p align="center">
 <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai>
 </p>
-         
+       
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in"><a href=https://anindya_sen.bio.link/>
